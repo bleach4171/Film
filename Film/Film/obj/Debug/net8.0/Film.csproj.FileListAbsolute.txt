@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Film\Film\bin\Debug\net8.0\Film.exe
+C:\Users\admin\source\repos\Film\Film\bin\Debug\net8.0\Film.deps.json
+C:\Users\admin\source\repos\Film\Film\bin\Debug\net8.0\Film.runtimeconfig.json
+C:\Users\admin\source\repos\Film\Film\bin\Debug\net8.0\Film.dll
+C:\Users\admin\source\repos\Film\Film\bin\Debug\net8.0\Film.pdb
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\Film.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\Film.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\Film.AssemblyInfo.cs
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\Film.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\Film.dll
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\refint\Film.dll
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\Film.pdb
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\Film.genruntimeconfig.cache
+C:\Users\admin\source\repos\Film\Film\obj\Debug\net8.0\ref\Film.dll
